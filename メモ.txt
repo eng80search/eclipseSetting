@@ -1,0 +1,7 @@
+1._vrapperrcはeclipseのプラグインvrapperのキーバインド設定ファイルである。
+なのでまずはeclipseのプラグインマネージャからインストールする必要がある。
+本ファイルの保存場所：C:\Users\ユーザー名フォルダ
+
+2.eclipse_keiYYYYMMDD.csvはキーバインド設定ファイルである。
+インポート方法：
+[File]->[Import]->[General]->[Preferences](環境設定)
